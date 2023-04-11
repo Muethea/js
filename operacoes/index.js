@@ -12,8 +12,7 @@
 //   `soma = ${soma}, sub = ${sub} a mult = ${mult} e a divisao = ${div} modo = ${mod}`
 // )
 
-const nome = 'Fernando dos Santos Muethea'
+const nome = 'Fernando dos Santos'
 
 
-
-console.log(nome.)
+confirm(nome)
